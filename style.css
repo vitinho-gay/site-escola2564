@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color:#15b369 ;
+    background-color:#CBB919 ;
 color: white;
 display: flex;
 justify-content: space-around;
@@ -10,14 +10,36 @@ padding: 24px 0;
     width: 20%;
 }
 
-.cabecalho-item-lista{
+.cabecalho-lista-item{
 display: inline-block;
 margin: 0 16px;
-padding: 24px 0;
-font-siza: 24px;
+padding: 10px 0;
+font-size: 24px;
 }
 
 * {
 margin: 0;
 padding: 0;
+}
+
+.ANIMECON{
+    background-image:linear-gradient(#CBB919, #4EBFE9) ;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding: 24px 0;
+}
+
+.recompensa-imagem{
+    width: 10%;
+    padding: 0 20px;
+}
+
+.ANIMECON-title{
+    padding: 0 20px ;
+}
+
+.ANIMECON-title-um{
+    padding:0 20px;
 }
