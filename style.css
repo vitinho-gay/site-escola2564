@@ -3,7 +3,7 @@
 color: white;
 display: flex;
 justify-content: space-around;
-padding: 40px 0;
+padding: 25px 0;
 }
 
 .cabecalho-imagem{
@@ -28,7 +28,7 @@ padding: 0;
     display: flex;
     justify-content: center;
     align-items:center;
-    padding: 30px 0;
+    padding: 10px 0;
 }
 
 .recompensa-imagem{
@@ -48,10 +48,14 @@ padding: 0;
     width: 200px;
 }
 
-.insta-imagem{
+.crunchy-imagem{
     width: 50px;
 }
 
-.github-imagem{
+.animetv-imagem{
+    width: 50px;
+}
+
+.funimation-imagem{
     width: 50px;
 }
