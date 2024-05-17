@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color:#7b19cb ;
+    background-color:#e94ea8 ;
 color: white;
 display: flex;
 justify-content: space-around;
@@ -17,13 +17,18 @@ padding: 10px 0;
 font-size: 36px;
 }
 
+body{
+    font-family: "Mochiy Pop One",sans-serif ;
+}
+
+
 * {
 margin: 0;
 padding: 0;
 }
 
 .ANIMECON{
-    background-image:linear-gradient(#7b19cb, #e94ea8) ;
+    background-image:linear-gradient(#e94ea8, #000000) ;
     color: black;
     display: flex;
     justify-content: center;
@@ -33,7 +38,7 @@ padding: 0;
 
 .recompensa-imagem{
     width: 10%;
-    padding: 0 20px;
+    padding: 0 100px;
 }
 
 .ANIMECON-title{
@@ -41,7 +46,16 @@ padding: 0;
 }
 
 .ANIMECON-title-um{
-    padding:0 20px;
+    padding:10px 20px;
+}
+.ANIMECON-title-dois{
+    padding: 10px 20px;
+}
+.ANIMECON-title-tres{
+    padding: 10px 20px;
+}
+.ANIMECON-title-quatro{
+    padding: 10px 20px;
 }
 
 .assinantes-imagem{
